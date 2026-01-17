@@ -391,16 +391,6 @@ const handleAuthAction = () => {
               </div>
             </div>
           </div>
-
-          {/* Quick Access Info */}
-          <div className="mt-12 text-center">
-            <p className="text-gray-400 mb-4">
-              Not sure which one to choose? Start with our quick assessment tool
-            </p>
-            <button className="border-2 border-gray-600 hover:border-green-500 px-8 py-3 rounded-full font-semibold transition hover:bg-green-500/10">
-              Get Recommendations
-            </button>
-          </div>
         </div>
       </section>
 
